@@ -1,2 +1,2 @@
-INSERT INTO employees (first_name, last_name, department, email)
-VALUES ('Lorenz', 'Vanthillo', 'IT', 'lvthillo@mail.com');
+INSERT INTO user (id, name, email) VALUES (0,'admin', 'admin@mail.com');
+
